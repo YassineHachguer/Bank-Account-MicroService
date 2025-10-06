@@ -74,4 +74,16 @@ Exemple :
 
 ![](./screens/img_5.png)
 
+## Utilisation de GraphQL
+1. Ouvrez l’interface **GraphiQL** :  
+   👉 `http://localhost:8081/graphiql`
+2. Testez vos **requêtes** et **mutations** pour interagir avec les comptes et les clients.
+
+Exemples :  
+![](./screens/img_6.png)  
+![](./screens/img_7.png)  
+![](./screens/img_8.png)
+
+
+
 
